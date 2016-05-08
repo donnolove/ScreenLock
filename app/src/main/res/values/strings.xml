@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">screenLock</string>
+    <string name="str_screenlock_descript">取得鎖定權限</string>
+    <string name="str_screenlock_descript_2">說明:為了讓 APP 能夠自動鎖屏，需要啟用此權限。</string>
+</resources>
