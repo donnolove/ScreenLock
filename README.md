@@ -2,7 +2,7 @@
 
 如下圖,必須先取得 Android 系統的裝置管理員權限才可以鎖定螢幕
 
-![image](./wiki/pic/device-2016-05-08-140824_.png)
+![image](./wiki/pic/device-2016-05-08-140824_.png =695x1197)
 
 以 device_admin.xml 來描述要跟系統取得哪些權限 (在 AndroidManifest.xml 使用到)
 
