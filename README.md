@@ -2,7 +2,7 @@
 
 如下圖,必須先取得 Android 系統的裝置管理員權限才可以鎖定螢幕
 
-![image](https://github.com/donnolove/screenLock/blob/master/wiki/pic/device-2016-05-08-140824.png?raw=true)
+![image](https://github.com/donnolove/screenLock/blob/master/wiki/pic/device-2016-05-08-140824_.png?raw=true)
 
 以 device_admin.xml 來描述要跟系統取得哪些權限 (在 AndroidManifest.xml 使用到)
 
